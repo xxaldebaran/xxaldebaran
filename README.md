@@ -1,4 +1,4 @@
-Hi there! 
+Hi there! 👋
 
 I`m **Daria**, a Python developer and 4th year IT student @ Vilnius University. 
 
@@ -8,6 +8,6 @@ I have a diverse skill set, including proficiency in **Python, R, SQL, Java,** a
 
 Outside of work, I follow the latest developments in science, enjoy playing video games and creating digital art.
 
-**Let's connect!**
+**Let's connect!** 🚀
 
-[![LinkedIn](https://drive.google.com/file/d/1ohNfasaPLnk4W4C1cOGFHy1gr9xFO0hK/view?usp=sharing)](https://www.linkedin.com/in/daria-tovstohan-1b244923b/) 
+[LinkedIn](https://www.linkedin.com/in/daria-tovstohan-1b244923b/) 
