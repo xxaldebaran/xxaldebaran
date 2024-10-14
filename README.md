@@ -1,6 +1,6 @@
 Hi there! 👋
 
-I`m **Daria**, a Python developer and 4th year IT student @ [Vilnius University](https://www.vu.lt/en/). 
+I`m **Daria**, a Backend Engineer @ [Vinted](https://www.vinted.lt/) and 4th year IT student @ [Vilnius University](https://www.vu.lt/en/). 
 
 Previously, I worked as **QA Test Engineer, Simulations Engineer and Python Developer Intern** @ [Kongsberg NanoAvionics](https://nanoavionics.com/), where I developed optimization algorithms, automated workflows, and conducted in-depth data analysis.
 
